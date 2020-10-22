@@ -14,3 +14,5 @@ The templates used were taken and modified from **Scrivener for Linux v.1.9.0.1*
 3. Use Scrivener to make your changes.
 4. When done, *Save* the project in Scrivener, run `git add .` to add any changes that were made to the project folder, use `git -m` to add your commit message, optionally use `git tag` to tag your commits, and finally use `git push` to sync your changes.
 
+## CREDITS
+The template modification work was based off of Roy Liu's [scrivener_starter](https://github.com/carsomyr/scrivener_starter) project.
