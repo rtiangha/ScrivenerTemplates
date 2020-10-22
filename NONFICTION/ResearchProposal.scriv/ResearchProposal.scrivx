@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="impulse" Modified="2020-10-22 01:35:16 +0000" ModID="8D5FF1B5-303E-4406-87A4-C495B822606D">
+    <Binder>
+        <BinderItem ID="20" UUID="E3973981-5FAC-4900-B8B6-1A5CD5677E3F" Created="2010-09-28 20:30:28 +0000" Modified="2014-05-14 08:49:28 +0000" Type="Text">
+            <Title>About</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="31E5713C-685C-43E6-BC82-F08E0E5F9FF5" Created="2010-09-27 22:08:56 +0000" Modified="2010-09-30 19:29:08 +0000" Type="DraftFolder">
+            <Title>&lt;Proposal Title&gt;</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="29" UUID="3ABB0AA3-E978-4201-98EA-F5F72CD3573F" Created="2010-09-29 01:54:48 +0000" Modified="2014-05-14 08:01:01 +0000" Type="Text">
+                    <Title>Cover</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="28" UUID="83916818-D96A-49C3-975A-2A89473BAA6D" Created="2010-09-29 01:51:46 +0000" Modified="2014-06-12 05:59:02 +0000" Type="Text">
+                    <Title>Abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="8" UUID="984E0387-B63F-4211-AF34-EA62C738CDED" Created="2010-08-21 00:22:08 +0000" Modified="2014-05-14 08:01:41 +0000" Type="Text">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="7" UUID="4FD930A9-EE0B-4AA5-9EC7-B1E1B158A1A8" Created="2010-08-21 00:24:12 +0000" Modified="2014-05-14 08:01:58 +0000" Type="Text">
+                    <Title>Purpose</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="6" UUID="FAE64019-FF21-4748-B06F-9A61F8B65768" Created="2010-08-21 00:25:24 +0000" Modified="2014-05-14 08:02:07 +0000" Type="Text">
+                    <Title>Research Question</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="5" UUID="FCBD1AF5-627D-47B6-9DA1-D190D50C0781" Created="2010-08-21 00:26:16 +0000" Modified="2014-05-14 08:02:16 +0000" Type="Text">
+                    <Title>Importance</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="13" UUID="E982B377-3350-41C8-927D-C4CB98AF7FFC" Created="2010-08-21 00:26:32 +0000" Modified="2014-05-14 08:02:26 +0000" Type="Text">
+                    <Title>Method of Approach</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="12" UUID="17D7C7C9-D73E-4FA7-91E7-6218F8167B69" Created="2010-08-21 00:30:31 +0000" Modified="2014-05-14 08:02:47 +0000" Type="Text">
+                    <Title>Work Plan</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="11" UUID="38477DA4-A307-43FD-91DD-7F2C2DB5D138" Created="2010-08-21 00:30:57 +0000" Modified="2014-05-14 08:03:14 +0000" Type="Text">
+                    <Title>Budget</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="10" UUID="D995C4BA-9EAF-43F6-A4B0-121CE6125B35" Created="2010-08-21 00:31:06 +0000" Modified="2014-05-14 08:03:28 +0000" Type="Text">
+                    <Title>References</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="C435FA35-3F0C-49D3-821B-8AD18B000AF8" Created="2010-09-27 22:08:56 +0000" Modified="2010-09-27 22:08:56 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="27" UUID="E8343388-1816-4B14-9256-2AD9808BD654" Created="2010-09-28 20:57:51 +0000" Modified="2014-05-14 08:03:38 +0000" Type="Text">
+                    <Title>Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="30" UUID="66C3FDBB-9F81-45BF-92BB-4C9AACBB50B8" Created="2010-10-01 20:18:33 +0000" Modified="2014-05-14 08:06:03 +0000" Type="Text">
+                    <Title>Style Guidelines</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="26" UUID="39851EB7-594F-4618-8382-4F3080956A24" Created="2010-09-28 20:41:44 +0000" Modified="2010-09-28 20:41:59 +0000" Type="Folder">
+            <Title>Resources</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Book (Blue Book).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="18" UUID="46A2B906-9B56-4D5B-8C48-CF11CAB92772" Created="2010-09-27 22:15:59 +0000" Modified="2010-09-28 20:58:05 +0000" Type="Folder">
+                    <Title>Misc</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="19" UUID="6D1502C8-170B-4DED-9C38-628A3086B3F0" Created="2010-09-27 22:16:04 +0000" Modified="2014-05-14 08:06:21 +0000" Type="Text">
+                            <Title>Research Steps</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="BAB8FA7E-EDC6-4FED-BE8F-A99ED9DBF3E1" Created="2010-09-27 22:08:56 +0000" Modified="2010-09-27 22:08:56 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.901961 0.921569 0.952941">Concept</Label>
+            <Label ID="1" Color="0.988235 0.874510 0.850980">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="B6920F9D-335D-423C-BE70-EF02E7519D3B" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="F5217C9D-47A3-4F8D-9E25-75E385F076B2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 12:29:31 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

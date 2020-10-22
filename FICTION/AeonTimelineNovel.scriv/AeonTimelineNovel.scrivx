@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="impulse" Modified="2020-10-22 01:34:00 +0000" ModID="AD7ECF3E-1818-4745-A16D-6E19C792F121">
+    <Binder>
+        <BinderItem ID="45" UUID="4FEA7CA4-F7C1-4959-8DDC-A62BE658A648" Created="2007-03-26 14:48:19 +0000" Modified="2013-10-21 10:56:06 +0000" Type="Text">
+            <Title>Aeon Timeline</Title>
+            <MetaData>
+                <LabelID>5</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.tiff</IconFileName>
+                <CustomMetaData>
+                    <MetaDataItem>
+                        <FieldID>aeonsync</FieldID>
+                        <Value>IGNORE</Value>
+                    </MetaDataItem>
+                </CustomMetaData>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>2853,0</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <References>
+                <Reference Destination="http://www.nanowrimo.org/">NaNoWriMo.org</Reference>
+                <Reference Destination="http://www.nanowrimo.org/en/forums">NaNoWriMo Forums</Reference>
+                <Reference Destination="http://www.nanowrimo.org/en/forums/special-offers-and-greetings-from-nano-sponsors/threads/565">Scrivener Special Offer Thread</Reference>
+                <Reference Destination="http://www.nanowrimo.org/en/forums/nano-technology/threads/640">Scrivener NaNo-Tech Thread</Reference>
+            </References>
+        </BinderItem>
+        <BinderItem ID="0" UUID="CA8A8D52-9DD1-45E6-9BF7-D5E65ADF2906" Created="2006-11-05 14:27:29 +0000" Modified="2007-03-26 15:00:41 +0000" Type="DraftFolder">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="ED87ABA8-6EC6-408E-9244-507E6615DF60" Created="2006-11-05 14:31:13 +0000" Modified="2011-03-15 12:25:45 +0000" Type="Folder">
+                    <Title>Chapter</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="6" UUID="7CCB55B0-DC21-495E-A7D3-4EEF82184ECB" Created="2006-11-05 14:33:03 +0000" Modified="2012-10-15 07:15:33 +0000" Type="Text">
+                            <Title>Scene</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="47" UUID="0DD0B824-F6BF-4619-86E6-D86906BB6C6A" Created="2012-10-15 07:16:59 +0000" Modified="2012-10-15 07:16:59 +0000" Type="Folder">
+            <Title>Aeon Timeline Exported Events</Title>
+            <MetaData>
+                <IconFileName>AeonTimeline.tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="17" UUID="A1A98AEC-4248-44B1-AC26-EB6DA9FA4126" Created="2010-10-20 08:06:35 +0000" Modified="2010-10-20 08:06:51 +0000" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+                <CustomMetaData>
+                    <MetaDataItem>
+                        <FieldID>aeonsync</FieldID>
+                        <Value>IGNORE</Value>
+                    </MetaDataItem>
+                </CustomMetaData>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <DefaultChildTemplateID>21</DefaultChildTemplateID>
+        </BinderItem>
+        <BinderItem ID="18" UUID="E0223629-D54C-4282-B97A-48B8B3DDAA58" Created="2010-10-20 08:06:37 +0000" Modified="2010-10-20 08:06:56 +0000" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+                <CustomMetaData>
+                    <MetaDataItem>
+                        <FieldID>aeonsync</FieldID>
+                        <Value>IGNORE</Value>
+                    </MetaDataItem>
+                </CustomMetaData>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <DefaultChildTemplateID>22</DefaultChildTemplateID>
+        </BinderItem>
+        <BinderItem ID="29" UUID="CE8B7FC8-0796-4781-847F-5FC164D7CEA6" Created="2011-07-21 10:15:20 +0000" Modified="2011-07-21 10:15:23 +0000" Type="Folder">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.tiff</IconFileName>
+                <CustomMetaData>
+                    <MetaDataItem>
+                        <FieldID>aeonsync</FieldID>
+                        <Value>IGNORE</Value>
+                    </MetaDataItem>
+                </CustomMetaData>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="30" UUID="D05F4B58-0012-404C-ACBE-72372E12C1E1" Created="2011-07-21 10:15:41 +0000" Modified="2011-07-21 10:15:47 +0000" Type="Folder">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="11" UUID="65D4B0E5-05A5-4D5C-B903-C530147EFFA2" Created="2006-11-06 12:29:11 +0000" Modified="2013-10-21 11:00:16 +0000" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>564,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>166,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="31" UUID="5D3C345A-BE7B-4873-8AC1-00AEF7FE3519" Created="2011-07-21 10:15:58 +0000" Modified="2011-07-21 10:16:05 +0000" Type="Folder">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="38" UUID="FD1BFCEF-6A8C-45E5-990B-AFF0C0007797" Created="2011-07-08 16:05:01 +0000" Modified="2011-07-21 12:00:55 +0000" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>169,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" UUID="1833F135-7A0B-47ED-9BD3-C896D2D086B7" Created="2011-07-09 07:04:44 +0000" Modified="2011-10-06 13:20:37 +0000" Type="Text">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>81,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" UUID="4A4C2C6E-8A36-4109-9AA2-C539A866A515" Created="2011-07-09 07:05:04 +0000" Modified="2011-10-06 13:20:37 +0000" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11,23</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="305AB2F1-089B-4C49-A10C-FF684ADDE0BD" Created="2011-07-09 07:06:12 +0000" Modified="2011-07-21 12:00:05 +0000" Type="Text">
+                            <Title>Blank Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>197,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="32" UUID="220AE8B4-49A8-4EBF-9E86-295D14905199" Created="2011-07-21 10:16:07 +0000" Modified="2011-07-21 10:16:09 +0000" Type="Folder">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="34" UUID="D82D7172-F3A5-458E-A85D-B9F0AE19FE5A" Created="2011-07-20 20:04:05 +0000" Modified="2011-07-21 10:17:17 +0000" Type="Image">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="33" UUID="AEF19F08-A9CA-4A6E-ABCD-5725BF4F94DC" Created="2011-07-16 16:01:19 +0000" Modified="2011-07-21 12:01:28 +0000" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="4D1CEB2B-7B4E-4358-BCBC-E974387B2B35" Created="2006-11-05 14:27:29 +0000" Modified="2006-11-05 14:27:29 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="39" UUID="FFD09FDA-51F2-4AAC-83B1-916FF21F34EE" Created="2011-07-21 10:40:07 +0000" Modified="2011-07-21 10:40:11 +0000" Type="Folder">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="44" UUID="8995F126-038A-4670-A077-228453D77AF9" Created="2011-10-19 15:40:49 +0000" Modified="2011-10-19 15:47:17 +0000" Type="PDF">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" UUID="73ABB489-D861-49FA-A00B-D50D40369D86" Created="2011-07-21 10:40:04 +0000" Modified="2011-07-21 10:40:04 +0000" Type="PDF">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" UUID="523F56F5-72FD-46B5-BB3E-F4648A25710D" Created="2011-07-21 11:07:23 +0000" Modified="2011-07-21 11:07:23 +0000" Type="Image">
+                            <Title>iBooks E-book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="14AC2E8B-1624-4310-909D-FE3AF905EFF1" Created="2011-10-18 17:28:46 +0000" Modified="2011-10-18 17:35:34 +0000" Type="Text">
+                            <Title>NaNoWriMo (Obfuscated)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonsync</FieldID>
+                                        <Value>IGNORE</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="20" UUID="4D002C3B-AAD0-45E3-AD39-26C62872104E" Created="2010-10-20 08:57:18 +0000" Modified="2010-10-20 08:57:22 +0000" Type="Folder">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <CustomMetaData>
+                    <MetaDataItem>
+                        <FieldID>aeonsync</FieldID>
+                        <Value>IGNORE</Value>
+                    </MetaDataItem>
+                </CustomMetaData>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="21" UUID="0B9DFA30-2BBF-4413-996D-E56A1A1AF83A" Created="2010-10-20 08:58:59 +0000" Modified="2010-10-28 15:32:30 +0000" Type="Text">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" UUID="62E7EDD1-8458-4E47-8A9B-9B0311D3564B" Created="2010-10-22 13:34:54 +0000" Modified="2010-10-22 13:40:06 +0000" Type="Text">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" UUID="43857890-F8DC-4ED9-80EF-56D3CB3BAEC0" Created="2010-10-24 17:03:15 +0000" Modified="2010-10-24 17:03:39 +0000" Type="Text">
+                    <Title>Daily Target</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonsync</FieldID>
+                                <Value>IGNORE</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">1667</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="FBC5C9F3-4D7F-4950-9D38-FDFCEE205E16" Created="2006-11-05 14:27:29 +0000" Modified="2006-11-05 14:27:29 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.000000">Chapter</Label>
+            <Label ID="4" Color="0.274510 0.556863 1.000000">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>4d002c3b-aad0-45e3-ad39-26c62872104e</TemplateFolderUUID>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">2011</SearchSettings>
+        </Collection>
+    </Collections>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="aeonevent" Wraps="No" Color="0.000000 0.000000 0.000000">Aeon Event</MetaDataField>
+        <MetaDataField ID="aeondate" Wraps="No" Color="0.000000 0.000000 0.000000">Aeon Date</MetaDataField>
+        <MetaDataField ID="aeonenddate" Wraps="No" Color="0.000000 0.000000 0.000000">Aeon End Date</MetaDataField>
+        <MetaDataField ID="aeonlabel" Wraps="No" Color="0.000000 0.000000 0.000000">Aeon Label</MetaDataField>
+        <MetaDataField ID="aeonarc" Wraps="No" Color="0.000000 0.000000 0.000000">Aeon Arc</MetaDataField>
+        <MetaDataField ID="aeonrelationships" Wraps="Yes" Color="0.000000 0.000000 0.000000">Aeon Relationships</MetaDataField>
+        <MetaDataField ID="aeonnotes" Wraps="Yes" Color="0.000000 0.000000 0.000000">Aeon Notes</MetaDataField>
+        <MetaDataField ID="aeonid" Wraps="No" Color="1.000000 0.000000 0.000000">Aeon ID</MetaDataField>
+        <MetaDataField ID="aeonsync" Wraps="No" Color="1.000000 0.000000 0.000000">Aeon Sync</MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2012-12-01 00:24:39 +1100" IgnoreDeadline="No">50000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="Yes" CanWriteOnDeadlineDate="No" WritingDays="">1041</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="Letter" LeftMargin="72" RightMargin="72" TopMargin="90" BottomMargin="90" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

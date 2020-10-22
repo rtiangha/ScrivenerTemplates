@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="impulse" Modified="2020-10-22 01:36:55 +0000" ModID="FF2E7832-D278-478C-B682-EDD9ECC055A0">
+    <Binder>
+        <BinderItem ID="83" UUID="D9015BB3-FB7A-4F34-A14F-42D9140E824A" Created="2010-10-05 17:52:02 +0000" Modified="2014-06-12 05:58:05 +0000" Type="Text">
+            <Title>How to Use</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.png</IconFileName>
+                <CustomMetaData>
+                    <MetaDataItem>
+                        <FieldID>caloriesperserving</FieldID>
+                        <Value></Value>
+                    </MetaDataItem>
+                    <MetaDataItem>
+                        <FieldID>recommendedby</FieldID>
+                        <Value></Value>
+                    </MetaDataItem>
+                </CustomMetaData>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>6,6</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="5743CC0E-5823-40D7-B4F5-0D07CF8F1614" Created="2010-03-31 20:18:48 +0000" Modified="2010-05-12 10:31:08 +0000" Type="DraftFolder">
+            <Title>Recipes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="46" UUID="A71C0DAB-D49E-4671-B613-9C81363EEB84" Created="2010-05-24 10:03:00 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Breakfast Dishes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>source</FieldID>
+                                <Value></Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="15" UUID="1F0FED54-8131-47D3-8F00-46C8D76CB6BD" Created="2010-05-12 10:31:40 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Appetizers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="53" UUID="5F008396-A1DF-43AF-A700-F8641D28CE35" Created="2010-10-05 01:55:16 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Sauces &amp; Salsas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="120" UUID="4CE4E559-680C-49A0-88A6-8CDE202309A2" Created="2011-02-24 00:18:35 +0000" Modified="2014-06-12 05:55:54 +0000" Type="Text">
+                            <Title>Fake Sauce</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>3</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>10</KeywordID>
+                            </Keywords>
+                            <References>
+                                <Reference BinderID="119">Sample Recipe</Reference>
+                                <Reference BinderID="83">How to Use</Reference>
+                            </References>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="12" UUID="CF3ED0DC-EC1D-4E5A-918C-0920FAD80C26" Created="2010-05-12 10:31:27 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Soups</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="54" UUID="4B789024-C866-4755-8FC0-9D03FE7776D7" Created="2010-10-05 02:00:53 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Salads</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="11" UUID="ED39E8CC-DC33-48BD-844F-7CEF1C480040" Created="2010-05-12 10:31:13 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Entrées</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="21" UUID="6B0533DD-45F2-4233-9202-5A69A4A0171D" Created="2010-05-12 10:32:37 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                            <Title>Meat</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="17" UUID="1EA0C78B-2505-487D-8BEC-9DAF587D48EF" Created="2010-05-12 10:32:17 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                                    <Title>Poultry</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="119" UUID="B4550E5A-D0D7-4B93-AA30-4932296D7ED6" Created="2011-02-24 00:16:12 +0000" Modified="2014-05-15 06:53:22 +0000" Type="Text">
+                                            <Title>Sample Recipe</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>source</FieldID>
+                                                        <Value>This template</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                            <Keywords>
+                                                <KeywordID>10</KeywordID>
+                                            </Keywords>
+                                            <References>
+                                                <Reference BinderID="83">How to Use</Reference>
+                                            </References>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="18" UUID="3229806E-B3C1-45F8-81C3-F21435FEB547" Created="2010-05-12 10:32:26 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                                    <Title>Seafood</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="19" UUID="5F7879F6-4DD6-431C-B338-2512B2ACC6BC" Created="2010-05-12 10:32:28 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                                    <Title>Beef</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="20" UUID="760254AF-2BF3-43E3-96BC-1C1649FEFF1C" Created="2010-05-12 10:32:30 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                                    <Title>Pork</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="51" UUID="6424711B-6504-4CC7-B835-0CC0C4BC76AA" Created="2010-10-05 01:52:53 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                                    <Title>Veal</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="52" UUID="E7E01EAA-DE17-491B-9943-79C757432F5F" Created="2010-10-05 01:53:02 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                                    <Title>Lamb</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="55" UUID="02B90ED6-1710-4FCC-B4C7-F4992E6657E7" Created="2010-10-05 02:08:42 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                            <Title>Pasta</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="56" UUID="06CEF235-0D3A-4B70-A391-E627A138DECE" Created="2010-10-05 02:22:28 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                            <Title>Pizzas &amp; Stromboli</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="F6DDAFFC-2933-4CF7-9DFC-A2D7DE8E1678" Created="2010-10-05 02:25:09 +0000" Modified="2014-05-15 06:50:33 +0000" Type="Folder">
+                            <Title>Eggs &amp; Cheese</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="14" UUID="CE6B88A0-7B20-4117-A03D-43A92553BC6A" Created="2010-05-12 10:31:35 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Sides</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="22" UUID="1BB24303-B620-4238-9EF6-C69F43C73152" Created="2010-05-12 10:33:03 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Vegetables</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="23" UUID="808CB841-0F46-4839-BC46-42F0FD8D6885" Created="2010-05-12 10:33:08 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Grains</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="2E7246BD-6A56-451B-A551-72A6BC4FB271" Created="2010-10-04 20:05:14 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Rice &amp; Potatoes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="26" UUID="870444A1-8AD7-47DF-B0D9-B2BC3D55A773" Created="2010-05-12 10:40:00 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Breads</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="63" UUID="0CAEBC93-9AF6-42DC-A9F4-0C1E7BE985C7" Created="2010-10-05 06:18:38 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Artisan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="64" UUID="A07FE49E-EF2C-4D93-8A4F-1FA669FAF5AA" Created="2010-10-05 06:18:42 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Enriched</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="65" UUID="8624F046-F223-42DD-A6AF-B26C720CB51B" Created="2010-10-05 06:18:45 +0000" Modified="2014-05-15 06:55:09 +0000" Type="Folder">
+                            <Title>Daily</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="13" UUID="335C6A1B-17AF-433F-9B68-3CA02D60F595" Created="2010-05-12 10:31:30 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Desserts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="27" UUID="8919E6A3-5302-475A-A1A7-12FABC4B3FB3" Created="2010-05-12 10:40:03 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Cakes &amp; Pies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="E058C0E1-A465-49DE-8693-864C2EAF4557" Created="2010-10-05 01:48:42 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Cookies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="62" UUID="B4C4B53E-1E28-43CD-898C-A928ECF90F74" Created="2010-10-05 02:36:07 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Candies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="58" UUID="A8B2E574-09F9-4484-ADDE-FFA1FE58F596" Created="2010-10-05 02:33:39 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Miscellaneous</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="42" UUID="FD3DD941-4A6B-47E9-BE12-8ED56D9BD834" Created="2010-05-16 06:58:23 +0000" Modified="2014-05-15 06:50:04 +0000" Type="Folder">
+                    <Title>Beverages</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="49" UUID="7397E357-5908-496A-A7BA-D2201592FCBA" Created="2010-10-05 01:50:29 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Hot</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" UUID="992C5B09-8152-48D8-B3A6-EE6A35D3744D" Created="2010-10-05 01:50:31 +0000" Modified="2014-05-15 06:50:49 +0000" Type="Folder">
+                            <Title>Cold</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="8C7803CE-4D27-4470-9743-EF0E38DF7B3A" Created="2010-03-31 20:18:48 +0000" Modified="2010-05-12 11:01:10 +0000" Type="ResearchFolder">
+            <Title>Resources</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="95" UUID="AA7C1E6E-C26F-4088-BB57-39A97E5F1FB1" Created="2010-10-05 20:05:18 +0000" Modified="2014-05-15 06:51:00 +0000" Type="Folder">
+                    <Title>Grain Cook Times</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="66" UUID="FA9FA8C9-8820-4C1B-89EC-91656E772971" Created="2010-10-05 06:20:28 +0000" Modified="2014-05-15 06:51:00 +0000" Type="Folder">
+                    <Title>Meat Cook Times</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="118" UUID="D0E18A46-C245-47A1-A1F7-287895390EE0" Created="2010-10-19 04:55:33 +0000" Modified="2014-05-14 10:18:05 +0000" Type="Text">
+                    <Title>Measurements &amp; Equivalents</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="3" UUID="BB2747B4-18F4-48BD-A756-F1A38DD08D84" Created="2014-05-14 09:52:36 +0000" Modified="2014-05-14 10:15:45 +0000" Type="Text">
+                    <Title>UK to US conversions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <References>
+                        <Reference Destination="http://allrecipes.co.uk/how-to/44/cooking-conversions.aspx">allrecipes.co.uk</Reference>
+                    </References>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="1A8F26FD-A3B4-44E0-A936-83B9A7133E13" Created="2010-03-31 20:18:48 +0000" Modified="2010-03-31 20:18:48 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Time</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1"></Label>
+            <Label ID="4" Color="0.721569 0.882353 0.325490">&lt; 30 min</Label>
+            <Label ID="3" Color="0.882353 0.776471 0.219608">30-60 min</Label>
+            <Label ID="6" Color="0.882353 0.372549 0.168627">1-2 hr</Label>
+            <Label ID="7" Color="0.725490 0.141176 0.000000">&gt;2 hr</Label>
+            <Label ID="2" Color="0.443137 0.000000 0.215686">1-2 days</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Rating</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1"></Status>
+            <Status ID="1">★</Status>
+            <Status ID="2">★★</Status>
+            <Status ID="3">★★★</Status>
+            <Status ID="4">★★★★</Status>
+            <Status ID="5">★★★★★</Status>
+            <Status ID="6">untried</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="23182582-C7A4-4220-AED4-5F0892C89F79" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="5CD516EC-EBE0-42A5-9366-9FFC9EEB0460" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+        <Collection Type="Arbitrary" ID="6524E062-ECEB-4995-82F1-758D6154C920" Color="0.826978 0.967727 0.728191">
+            <Title>Sample Recipes</Title>
+            <BinderIDs>
+                <BinderID>120</BinderID>
+                <BinderID>119</BinderID>
+            </BinderIDs>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="0">
+            <Title>allergens</Title>
+            <Color>1.000000 1.000000 1.000000</Color>
+            <Children>
+                <Keyword ID="1">
+                    <Title>gluten-free</Title>
+                    <Color>0.844846 0.833295 0.615839</Color>
+                </Keyword>
+                <Keyword ID="2">
+                    <Title>lactose-free</Title>
+                    <Color>0.506783 0.499870 0.369421</Color>
+                </Keyword>
+                <Keyword ID="30">
+                    <Title>nut-free</Title>
+                    <Color>0.280537 0.276707 0.204501</Color>
+                </Keyword>
+                <Keyword ID="3">
+                    <Title>shellfish-free</Title>
+                    <Color>0.122179 0.120500 0.089052</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>cooking method</Title>
+            <Color>0.941176 0.575418 0.178134</Color>
+            <Children>
+                <Keyword ID="5">
+                    <Title>microwave</Title>
+                    <Color>0.515831 0.315373 0.097627</Color>
+                </Keyword>
+                <Keyword ID="6">
+                    <Title>no-bake</Title>
+                    <Color>1.000000 0.775540 0.536172</Color>
+                </Keyword>
+                <Keyword ID="7">
+                    <Title>one dish</Title>
+                    <Color>0.687785 0.533394 0.368765</Color>
+                </Keyword>
+                <Keyword ID="8">
+                    <Title>oven</Title>
+                    <Color>0.357473 0.277226 0.191669</Color>
+                </Keyword>
+                <Keyword ID="9">
+                    <Title>slow cooker</Title>
+                    <Color>0.357473 0.222217 0.071122</Color>
+                </Keyword>
+                <Keyword ID="10">
+                    <Title>stovetop</Title>
+                    <Color>0.723980 0.450065 0.144045</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="11">
+            <Title>healthy</Title>
+            <Color>0.615518 0.886885 0.621530</Color>
+            <Children>
+                <Keyword ID="12">
+                    <Title>low-carb</Title>
+                    <Color>0.674418 0.886885 0.661524</Color>
+                </Keyword>
+                <Keyword ID="13">
+                    <Title>low-fat</Title>
+                    <Color>0.398825 0.574655 0.402716</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="14">
+            <Title>holiday/celebration</Title>
+            <Color>0.574655 0.065263 0.071489</Color>
+            <Children>
+                <Keyword ID="15">
+                    <Title>Christmas</Title>
+                    <Color>0.764706 0.086839 0.095140</Color>
+                </Keyword>
+                <Keyword ID="16">
+                    <Title>Halloween</Title>
+                    <Color>0.846159 0.529259 0.181582</Color>
+                </Keyword>
+                <Keyword ID="17">
+                    <Title>St. Patrick's Day</Title>
+                    <Color>0.164996 0.556558 0.172320</Color>
+                </Keyword>
+                <Keyword ID="18">
+                    <Title>Valentine's Day</Title>
+                    <Color>0.764706 0.201205 0.387457</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="19">
+            <Title>international</Title>
+            <Color>0.734432 0.430289 0.764706</Color>
+            <Children>
+                <Keyword ID="20">
+                    <Title>Chinese</Title>
+                    <Color>0.633478 0.608438 0.102342</Color>
+                </Keyword>
+                <Keyword ID="21">
+                    <Title>Italian</Title>
+                    <Color>0.319265 0.633478 0.257710</Color>
+                </Keyword>
+                <Keyword ID="22">
+                    <Title>Japanese</Title>
+                    <Color>0.633478 0.155505 0.121111</Color>
+                </Keyword>
+                <Keyword ID="23">
+                    <Title>Mexican</Title>
+                    <Color>0.773754 0.453452 0.219196</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="24">
+            <Title>seasonal</Title>
+            <Color>1.000000 1.000000 1.000000</Color>
+            <Children>
+                <Keyword ID="25">
+                    <Title>autumn</Title>
+                    <Color>0.764706 0.395743 0.209369</Color>
+                </Keyword>
+                <Keyword ID="26">
+                    <Title>spring</Title>
+                    <Color>0.764706 0.303410 0.328313</Color>
+                </Keyword>
+                <Keyword ID="27">
+                    <Title>summer</Title>
+                    <Color>0.196002 0.757992 0.000000</Color>
+                </Keyword>
+                <Keyword ID="28">
+                    <Title>winter</Title>
+                    <Color>0.569421 0.696834 0.764706</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="32">
+            <Title>vegan</Title>
+            <Color>0.000000 0.417639 0.000000</Color>
+        </Keyword>
+        <Keyword ID="29">
+            <Title>vegetarian</Title>
+            <Color>0.000000 0.162921 0.689998</Color>
+        </Keyword>
+    </Keywords>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="source" Wraps="Yes" Color="0.000000 0.000000 0.000000">Source</MetaDataField>
+        <MetaDataField ID="recommendedby" Wraps="Yes" Color="0.000000 0.000000 0.000000">Recommended By</MetaDataField>
+        <MetaDataField ID="publicationinfo" Wraps="Yes" Color="0.000000 0.000000 0.000000">Publication Info</MetaDataField>
+        <MetaDataField ID="caloriesperserving" Wraps="No" Color="0.000000 0.000000 0.000000">Cal/serv</MetaDataField>
+        <MetaDataField ID="fatperserving" Wraps="No" Color="0.000000 0.000000 0.000000">Fat/serv</MetaDataField>
+        <MetaDataField ID="fiberperserving" Wraps="No" Color="0.000000 0.000000 0.000000">Fiber/serv</MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 14:39:27 +0000" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Never" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

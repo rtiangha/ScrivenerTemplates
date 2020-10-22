@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerScriptFormat Version="1.0">
+    <Name>Comic Book (Antony Johnston)</Name>
+    <Units>Inches</Units>
+    <ScriptElements>
+        <Element>
+            <Title>Panel number</Title>
+            <KeyEquivalent>1</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier New" Size="12"/>
+                <UnderlineStyle>Single</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>6.5</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Panel description</NextElement>
+            <NextElementOnEmptyLineTab>Panel number</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>InsertText</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Panel number</NextElementOnTabAfterTyping>
+            <TextToInsertOnTab>( &lt;$sn&gt;)</TextToInsertOnTab>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="Yes">PANEL &lt;$SN&gt;</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 1</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 2</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 3</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 4</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 5</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 6</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 7</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 8</Completion>
+                    <Completion NewLineAfter="Yes">PANEL 9</Completion>
+                </Completions>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Panel description</Title>
+            <KeyEquivalent>2</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier New" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>6.5</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Panel description</NextElement>
+            <NextElementOnEmptyLineTab>Character</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Character</NextElementOnTabAfterTyping>
+            <AutoCompleteList/>
+        </Element>
+        <Element>
+            <Title>Character</Title>
+            <KeyEquivalent>3</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier New" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <KeepWithNext>Yes</KeepWithNext>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>2.5</FirstLineIndent>
+                <Indent>2.5</Indent>
+                <TailIndent>6.25</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Character</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>InsertText</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Panel number</NextElementOnTabAfterTyping>
+            <TextToInsertOnTab>( ()</TextToInsertOnTab>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="Yes">NO DIALOGUE</Completion>
+                    <Completion NewLineAfter="Yes">(OFF)</Completion>
+                    <Completion NewLineAfter="Yes">(LARGE)</Completion>
+                    <Completion NewLineAfter="Yes">(SMALL)</Completion>
+                    <Completion NewLineAfter="Yes">(NO TAIL)</Completion>
+                    <Completion NewLineAfter="Yes">(JAGGED)</Completion>
+                    <Completion NewLineAfter="Yes">(THOUGHT)</Completion>
+                    <Completion NewLineAfter="Yes">SFX</Completion>
+                    <Completion NewLineAfter="Yes">BALLOON</Completion>
+                    <Completion NewLineAfter="Yes">VOICE OFF</Completion>
+                    <Completion NewLineAfter="Yes">CAPTION</Completion>
+                    <Completion NewLineAfter="Yes">FROM PHONE</Completion>
+                    <Completion NewLineAfter="Yes">FLOATING TEXT</Completion>
+                    <Completion NewLineAfter="Yes">LOCATION</Completion>
+                </Completions>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+                <ProjectListAutoCompleteBehavior>GoToNextLine</ProjectListAutoCompleteBehavior>
+                <AutomaticallyAddPhrasesToProjectList>Yes</AutomaticallyAddPhrasesToProjectList>
+                <PhraseEndDelimiter>(()</PhraseEndDelimiter>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Dialogue</Title>
+            <KeyEquivalent>4</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier New" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>0</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>1.5</FirstLineIndent>
+                <Indent>1.5</Indent>
+                <TailIndent>5.5</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Panel description</NextElement>
+            <NextElementOnEmptyLineTab>Parenthetical</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Parenthetical</NextElementOnTabAfterTyping>
+            <AutoCompleteList/>
+        </Element>
+        <Element>
+            <Title>Parenthetical</Title>
+            <KeyEquivalent>5</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier New" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Parenthetical>Yes</Parenthetical>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>0</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>0.879861</FirstLineIndent>
+                <Indent>0.879861</Indent>
+                <TailIndent>4.5</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Dialogue</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Dialogue</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="Yes">cont</Completion>
+                    <Completion NewLineAfter="Yes">large</Completion>
+                    <Completion NewLineAfter="Yes">small</Completion>
+                </Completions>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Page Number</Title>
+            <KeyEquivalent>6</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier New" Size="18"/>
+                <UnderlineStyle>Single</UnderlineStyle>
+                <Bold>Yes</Bold>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>6.5</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Panel number</NextElement>
+            <NextElementOnEmptyLineTab>Page Number</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>InsertText</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Panel number</NextElementOnTabAfterTyping>
+            <TextToInsertOnTab>( &lt;$N&gt;)</TextToInsertOnTab>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="Yes">PAGE &lt;$N&gt;</Completion>
+                </Completions>
+            </AutoCompleteList>
+        </Element>
+    </ScriptElements>
+</ScrivenerScriptFormat>

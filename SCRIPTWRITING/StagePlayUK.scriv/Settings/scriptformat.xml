@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerScriptFormat Version="1.0">
+    <Name>Stage Play (UK)</Name>
+    <Units>Inches</Units>
+    <ScriptElements>
+        <Element>
+            <Title>Scene Heading</Title>
+            <KeyEquivalent>s</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>0</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>1.6</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Scene Action</NextElement>
+            <AllowTabs>Yes</AllowTabs>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="Yes">ACT [N]	SCENE [N]</Completion>
+                </Completions>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Scene Action</Title>
+            <KeyEquivalent>a</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>2.6</FirstLineIndent>
+                <Indent>2.6</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>0</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Character &amp; Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Dialogue (Cont.)</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Dialogue (Cont.)</NextElementOnTabAfterTyping>
+            <AutoCompleteList/>
+        </Element>
+        <Element>
+            <Title>Character &amp; Dialogue</Title>
+            <KeyEquivalent>d</KeyEquivalent>
+            <CharacterFormat>
+                <Font Name="Courier" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+                <AllCaps>Yes</AllCaps>
+                <StyleDelimiter>(	)</StyleDelimiter>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>0</FirstLineIndent>
+                <Indent>1.6</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>1.6</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Character &amp; Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Scene Action</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>InsertText</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Scene Heading</NextElementOnTabAfterTyping>
+            <TextToInsertOnTab>(:	)</TextToInsertOnTab>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="No">(PAUSE) </Completion>
+                    <Completion NewLineAfter="No">(BEAT) </Completion>
+                </Completions>
+                <AppendProjectAutoCompleteList>Yes</AppendProjectAutoCompleteList>
+                <ProjectListAutoCompleteBehavior>InsertTab</ProjectListAutoCompleteBehavior>
+                <AutomaticallyAddPhrasesToProjectList>Yes</AutomaticallyAddPhrasesToProjectList>
+                <PhraseEndDelimiter>(:)</PhraseEndDelimiter>
+            </AutoCompleteList>
+        </Element>
+        <Element>
+            <Title>Dialogue (Cont.)</Title>
+            <CharacterFormat>
+                <Font Name="Courier" Size="12"/>
+                <UnderlineStyle>None</UnderlineStyle>
+            </CharacterFormat>
+            <ParagraphFormat>
+                <Alignment>Left</Alignment>
+                <Spacing>1</Spacing>
+                <SpaceBefore>1</SpaceBefore>
+                <SpaceAfter>0</SpaceAfter>
+                <FirstLineIndent>1.6</FirstLineIndent>
+                <Indent>1.6</Indent>
+                <TailIndent>0</TailIndent>
+                <FirstTab>1.6</FirstTab>
+            </ParagraphFormat>
+            <NextElement>Character &amp; Dialogue</NextElement>
+            <NextElementOnEmptyLineTab>Character &amp; Dialogue</NextElementOnEmptyLineTab>
+            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
+            <NextElementOnTabAfterTyping>Scene Action</NextElementOnTabAfterTyping>
+            <AutoCompleteList>
+                <Completions>
+                    <Completion NewLineAfter="No">(PAUSE) </Completion>
+                    <Completion NewLineAfter="No">(BEAT) </Completion>
+                </Completions>
+            </AutoCompleteList>
+        </Element>
+    </ScriptElements>
+</ScrivenerScriptFormat>

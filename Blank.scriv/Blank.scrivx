@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="impulse" Modified="2020-10-22 01:41:03 +0000" ModID="D01A3DD5-FE5F-40A5-A41D-CBFA4A670E83">
+    <Binder>
+        <BinderItem ID="0" UUID="38579707-3AC9-42FE-92BA-C15CECF41025" Created="2020-10-22 01:31:50 +0000" Modified="2020-10-22 01:31:50 +0000" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="54B434BE-AEF6-4166-AE5A-36D2B40DABB9" Created="2020-10-22 01:31:50 +0000" Modified="2020-10-22 01:31:50 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="1604FB2F-76BE-4433-9C19-8926502F975C" Created="2020-10-22 01:31:50 +0000" Modified="2020-10-22 01:31:50 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="50A5AB5F-C556-4F96-A1A3-BA3E74BA8429" Created="2020-10-22 01:31:50 +0000" Modified="2020-10-22 01:31:50 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="3bf9e127-2f45-45fe-a5e9-93fa09acff76" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="5d2b0f8e-28fc-422f-9105-fccfc607eecf" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="Letter" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

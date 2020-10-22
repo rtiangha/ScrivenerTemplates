@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="impulse" Modified="2020-10-22 01:41:01 +0000" ModID="3B868016-05F1-4B2D-BDED-DD5F2ED17036">
+    <Binder>
+        <BinderItem ID="4" UUID="89742EE2-C675-4C61-870C-9C8E3BE5998C" Created="2007-03-25 20:48:19 +0000" Modified="2014-05-23 05:30:13 +0000" Type="Text">
+            <Title>Stage Play US Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="CEC0E277-B7CA-45A9-9F1F-33458A72314C" Created="2007-05-13 22:54:52 +0000" Modified="2007-05-16 00:21:11 +0000" Type="DraftFolder">
+            <Title>Script</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="21" UUID="3F0D2D02-A749-472B-968D-2A912A24D1D2" Created="2015-09-24 06:04:51 +0000" Modified="2015-09-24 06:06:27 +0000" Type="Text">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>152,152</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="73C05A6D-3A68-4A20-872A-B6DFD14B3DFD" Created="2007-05-15 21:08:22 +0000" Modified="2015-09-24 06:07:51 +0000" Type="Text">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="34E4750D-AE76-466B-AE6A-E94BE1C71BF9" Created="2007-05-15 21:10:59 +0000" Modified="2015-09-24 06:07:56 +0000" Type="Text">
+                    <Title>Setting</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="3AC4295A-8B48-45A5-9DF5-85A23961FAD3" Created="2007-05-15 21:16:25 +0000" Modified="2010-10-29 14:21:20 +0000" Type="Folder">
+                    <Title>Act</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <DefaultChildTemplateID>19</DefaultChildTemplateID>
+                    <Children>
+                        <BinderItem ID="10" UUID="4908B3DA-43FE-45EF-BAD2-1DE466044E3A" Created="2007-05-15 21:18:01 +0000" Modified="2015-09-24 06:08:04 +0000" Type="Text">
+                            <Title>Scene</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>17,17</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="94944C56-6C44-4840-9C37-5237A40D2C4D" Created="2010-10-27 13:52:02 +0000" Modified="2010-10-27 13:52:05 +0000" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Mask).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="17" UUID="1E6378DB-B66F-4A69-B0B7-5A95B612691A" Created="2010-10-27 13:52:06 +0000" Modified="2010-10-27 13:52:11 +0000" Type="Folder">
+            <Title>Settings</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="1" UUID="0D5B6635-AB75-40E5-B88A-2E784317E23C" Created="2007-05-13 22:54:52 +0000" Modified="2007-05-13 22:54:52 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="3" UUID="D8CBB333-A710-42C9-AF97-366A5A8EE37A" Created="2014-05-23 07:00:31 +0000" Modified="2014-05-23 07:06:08 +0000" Type="PDF">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="16" UUID="DD3A5F59-7EC6-4A2F-A82C-F03E771F61F8" Created="2010-10-27 13:52:39 +0000" Modified="2010-10-27 13:52:41 +0000" Type="Folder">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (White Notepad).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="20" UUID="4FA48831-E37D-4B35-845F-A89700310409" Created="2010-10-29 14:11:19 +0000" Modified="2014-06-12 06:04:21 +0000" Type="Folder">
+            <Title>Templates</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="19" UUID="8B228B5E-2A79-4B92-A9F1-419DF869335C" Created="2007-05-15 21:18:01 +0000" Modified="2015-09-24 06:08:17 +0000" Type="Text">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>17,17</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="CEE4E243-B9A5-4752-8D05-32B099824D16" Created="2007-05-13 22:54:52 +0000" Modified="2007-05-13 22:54:52 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.901961 0.921569 0.952941">Concept</Label>
+            <Label ID="2" Color="0.988235 0.874510 0.850980">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>4fa48831-e37d-4b35-845f-a89700310409</TemplateFolderUUID>
+    <Collections>
+        <Collection Type="Binder" ID="610FF768-6DDA-4659-8235-140E7BC85693" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="8FB6F83F-AB1D-47AF-94B0-F5102FBDF9AA" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 13:37:22 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
